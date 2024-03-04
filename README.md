@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/isophes/isophes/assets/banners/sophie.png">
+<img src="https://raw.githubusercontent.com/isophes/isophes/main/assets/banners/sophie.png">
 
 ## Languages'n stuff
 ![Lua](https://img.shields.io/badge/Lua-578ee6?style=for-the-badge&logo=lua&logoColor=white)
