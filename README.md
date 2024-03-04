@@ -8,7 +8,7 @@
 ## Tools I work with
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Roblox Studio](https://img.shields.io/static/v1?label=&message=Roblox+Studio&color=%2300A2FF&style=for-the-badge&logo=roblox+studio&logoColor=white)
 ## What OS's I use
-[Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/static/v1?label=&message=Windows&color=%230078D4&style=for-the-badge&logo=windows&logoColor=white)
 
 ## What am I doing right now?
 
