@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/isophes/isophes/main/assets/banners/sophie.png">
 
-## Languages'n stuff
+## Languages stuff
 ![Lua](https://img.shields.io/badge/Lua-578ee6?style=for-the-badge&logo=lua&logoColor=white)
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=isophes&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
