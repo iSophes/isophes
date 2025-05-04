@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Sophie, Software Engineer from the UK<br><br>🔭 Currently working on Alchemy Tycoon<br>🌱 I want to learn Flutter<br>🎸 Guitar player
+👋 Hi! I'm Sophie, Software Engineer from the UK<br><br>🔭 Currently working on Hide n Seek Ultimate<br>🌱 I want to learn Flutter<br>🎸 Guitar player
 
 
 ## 🌐 Socials:
