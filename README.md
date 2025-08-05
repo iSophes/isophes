@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Sophie, Software Engineer from the UK<br><br>🔭 Currently working on Hide n Seek Ultimate<br>🌱 I want to learn Flutter<br>🎸 Guitar player
+👋 Hi! I'm Sophie, Software Engineer from the UK<br><br>🔭 Currently working on Hydrogen<br>🌱 I want to learn Flutter<br>🎸 Guitar player
 
 
 ## 🌐 Socials:
@@ -15,3 +15,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isophes&icon=0&color=0)](https://visitcount.itsvg.in)
+
